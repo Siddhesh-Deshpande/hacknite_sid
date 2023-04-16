@@ -18,3 +18,8 @@ to run this file:
 5. after this wait for program to be exceuted completely
 6. then open the result.txt file this contain name of shoes , link to buy them(link of website they are on), prices in increasing order.
 
+Making of the project:
+the project is made using beautifulsoup library,requests library and urllib.parse library of python. 
+a script is written that scrapes the prices,name and url to access product from the website of flipkart and ebay the popular e commerce platforms. then the data is sorted and stored in a file using file I/O concept. 
+
+Contributor - Siddhesh Deshpande
