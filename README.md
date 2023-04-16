@@ -22,4 +22,6 @@ Making of the project:
 the project is made using beautifulsoup library,requests library and urllib.parse library of python. 
 a script is written that scrapes the prices,name and url to access product from the website of flipkart and ebay the popular e commerce platforms. then the data is sorted and stored in a file using file I/O concept. 
 
+NOTE - The file ws.py contains the entire source code
+
 Contributor - Siddhesh Deshpande
