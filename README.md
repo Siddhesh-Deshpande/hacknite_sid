@@ -16,5 +16,5 @@ to run this file:
 3.type the command python3 ws.py
 4. give the name of brand whose running shoes you want to search for(Eg-> Nike,adidas)
 5. after this wait for program to be exceuted completely
-6. then open the ressult.txt file this contain name of shoes , link to buy them(link of website they are on), prices in increasing order.
+6. then open the result.txt file this contain name of shoes , link to buy them(link of website they are on), prices in increasing order.
 
